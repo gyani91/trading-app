@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>trading - Checkstyle report</title>
+    <link>https://spring.io/projects/spring-boot/trading</link>
+    <description>trading - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2022</copyright>
+    <item>
+      <title>File: 23,
+             Errors: 209,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>https://spring.io/projects/spring-boot/trading/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.repository.IUserRepository.java">name/lattuada/trading/repository/IUserRepository.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.TradingApplication.java">name/lattuada/trading/TradingApplication.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.dto.TradeDTO.java">name/lattuada/trading/model/dto/TradeDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.entities.TradeEntity.java">name/lattuada/trading/model/entities/TradeEntity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.Mapper.java">name/lattuada/trading/model/Mapper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  6
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.SwaggerConfiguration.java">name/lattuada/trading/SwaggerConfiguration.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.EOrderType.java">name/lattuada/trading/model/EOrderType.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.controller.OrderController.java">name/lattuada/trading/controller/OrderController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  50
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.dto.OrderDTO.java">name/lattuada/trading/model/dto/OrderDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.repository.IOrderRepository.java">name/lattuada/trading/repository/IOrderRepository.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.controller.SecurityController.java">name/lattuada/trading/controller/SecurityController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  28
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.entities.SecurityEntity.java">name/lattuada/trading/model/entities/SecurityEntity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.controller.TradeController.java">name/lattuada/trading/controller/TradeController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  33
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#application.properties">application.properties</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.validator.UUID.java">name/lattuada/trading/validator/UUID.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.dto.UserDTO.java">name/lattuada/trading/model/dto/UserDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  3
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.entities.OrderEntity.java">name/lattuada/trading/model/entities/OrderEntity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.validator.UUIDValidator.java">name/lattuada/trading/validator/UUIDValidator.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.controller.UserController.java">name/lattuada/trading/controller/UserController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  27
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.repository.ISecurityRepository.java">name/lattuada/trading/repository/ISecurityRepository.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.repository.ITradeRepository.java">name/lattuada/trading/repository/ITradeRepository.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.entities.UserEntity.java">name/lattuada/trading/model/entities/UserEntity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  4
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://spring.io/projects/spring-boot/trading/checkstyle.html#name.lattuada.trading.model.dto.SecurityDTO.java">name/lattuada/trading/model/dto/SecurityDTO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  2
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
