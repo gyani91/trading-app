@@ -142,7 +142,7 @@ public class OrderController {
         // Create trade
         TradeEntity trade = new TradeEntity();
         trade.setPrice(sell.getPrice());
-        trade.setQuantity(buy.getQuantity());
+        trade.setQuantity(buy.getQuantity() <= sell.getQuantity() ? buy.getQuantity() : sell.getQuantity());
         trade.setOrderSellId(sell.getId());
         trade.setOrderBuyId(buy.getId());
         trade = tradeRepository.save(trade);

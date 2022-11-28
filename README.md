@@ -31,7 +31,7 @@ java -jar target/trading-0.0.2-SNAPSHOT.jar
 
 ## Test the code
 
-Once you launched the main application, you can test it as
+Once you have launched the main application, you can test it as
 
 ```shell
 export CUCUMBER_PUBLISH_TOKEN=876b2396-60aa-4b20-b78b-a584427556bd
